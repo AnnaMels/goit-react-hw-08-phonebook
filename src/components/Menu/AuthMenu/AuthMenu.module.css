@@ -1,0 +1,23 @@
+.menuList {
+    display: flex;
+    background-color: #FFE6FA;
+}
+
+.menuLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.active {
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    background-color: #B8F2E6;
+}
+
+.navWrapper {
+    display: flex;
+    align-items: center;
+}
+

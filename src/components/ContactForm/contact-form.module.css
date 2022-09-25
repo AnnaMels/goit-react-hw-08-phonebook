@@ -1,0 +1,24 @@
+.inputWrapper {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Abel', sans-serif;
+    margin-bottom: 10px;
+}
+
+.buttonWrapper {
+    text-align: center;
+}
+
+.button {
+    background-color: rgba(25, 118, 210, 0.04);
+    color: black;
+    border: 1px solid #1976d2;
+    padding: 5px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    text-transform: uppercase;
+}
+
+.input {
+    width: 100%;
+}

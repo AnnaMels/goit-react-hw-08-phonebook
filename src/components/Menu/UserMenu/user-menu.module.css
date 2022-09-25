@@ -1,0 +1,14 @@
+.userMenu {
+    display: flex;
+    align-items: center;
+    padding: 8px 16px;
+    justify-content: space-between;
+    height: 70.4px;
+    background-color: #FFE6FA;
+}
+
+.button {
+    background-color: #B8F2E6;
+    color: black;
+    border-color: grey;
+}
